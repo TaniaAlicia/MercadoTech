@@ -2,6 +2,6 @@
 Repo practica
 Participantes:
 Tania Rodriguez
-Martin Tejera :wink:  
+Martin Tejera    
 Santiago Gonzalez
 Melissa Bonilla
