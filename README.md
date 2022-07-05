@@ -1,2 +1,1 @@
-# MercadoTech
-Repo practica
+# ** *_Redes* **
